@@ -6,7 +6,8 @@ namespace Sample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // コンソールに文字列を表示する
+            Console.WriteLine("Hello, C#");
         }
     }
 }
